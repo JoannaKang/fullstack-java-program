@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/kangs/Personal_Project/fullstack-java-program/.metadata/.plugins/org.eclipse.jdt.core
+2710363012.index
+1865797976.index
+3074510594.index
